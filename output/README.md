@@ -1,24 +1,24 @@
-# readme-generator
+# read
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 ## Description
 
-Generate readmes automatically
+read
 
-## Table of Contents (Optional)
-
-If your README is long, add a table of contents to make it easy for users to find what they need.
+## Table of Contents
 
 - [Installation](#installation)
 - [Usage](#usage)
-- [Credits](#credits)
+- [Contributions](#contributions)
 - [License](#license)
+- [Tests](#tests)
+- [Questions](#questions)
 
 ## Installation
 
 na
 ## Usage
 
-used by developers
+read
 
 ## License
 
@@ -30,12 +30,12 @@ none
 
 ## Tests
 
-run in the cli
+cli
 
 ## Questions
 <ul>
-<li> <a href = "https://github.com/CatCorbin">github profile</a>
+<li> <a href = "https://github.com/catcorbin">github profile</a>
 </li>
-<li> <a href = "mailto:catcorbin0919@gmail.com">email </a> </li>
+<li> <a href = "mailto:catcorbin">email </a> </li>
 </li>
   
