@@ -1,24 +1,24 @@
-# read
+# readme-generator
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 ## Description
 
-read
+Readme Generator will automatically generate a readme after asking only a few questions via the CLI.
 
 ## Table of Contents
 
 - [Installation](#installation)
 - [Usage](#usage)
-- [Contributions](#contributions)
 - [License](#license)
+- [Contributions](#contributions)
 - [Tests](#tests)
 - [Questions](#questions)
 
 ## Installation
 
-na
+N/A
 ## Usage
 
-read
+This project will be used by developers to create readmes faster and easier to save time and energy.
 
 ## License
 
@@ -26,16 +26,16 @@ MIT
 
 ## Contributions
 
-none
+None
 
 ## Tests
 
-cli
+Test using the CLI.
 
 ## Questions
 <ul>
-<li> <a href = "https://github.com/catcorbin">github profile</a>
+<li> <a href = "https://github.com/CatCorbin">github profile</a>
 </li>
-<li> <a href = "mailto:catcorbin">email </a> </li>
+<li> <a href = "mailto:catcorbin0919@gmail.com">email </a> </li>
 </li>
   
